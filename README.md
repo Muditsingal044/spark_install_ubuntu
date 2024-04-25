@@ -17,6 +17,7 @@ https://dlcdn.apache.org/spark/spark-3.5.1/spark-3.5.1-bin-hadoop3.tgz
 
 
 ## 4. start spark -> cmd
+source ~/.bashrc
 spark-shell
 
 ## 5. stop spark -> cmd
